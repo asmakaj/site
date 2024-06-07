@@ -1,0 +1,6 @@
+user_66447fce32011,Kylian,Mbappé,mbappe@gmail.com,paris,homme,1998-03-12,Footballeur,Paris,Celibataire,Grand,,uploads/homme2.jpg,utilisateur,non,
+user_66448035a432d,Jean,amor,Jeanamor@gmail.com,helloword,homme,1955-04-12,Cuisinier,Lyon,Célibataire,yeux bleus,,uploads/femme3.jpg,utilisateur,non,
+user_664480a9c65a6,Sophie,aaaaaaa,Sophiea@gmail.com,helloworld,femme,2000-12-11,Medecin,Marseille,Celibataire,grande,,uploads/femme4.jpg,utilisateur,non,
+user_664480fa665ed,Admin,test,admin@gmail.com,Helloworld,homme,2000-03-22,Etudiant,Cergy,En couple,chauve,,uploads/homme1.jpg,administrateur,non,
+user_6644816c72682,Nicole,azz,nicol@gmail.com,HelloWorld,femme,2000-11-11,eeee,eeeee,eeee,eeee,eeeee,uploads/femme1.jpg,utilisateur,non,
+user_664481afab9df,Clémence,zazazz,clemence@gmail.com,Helloworld,homme,2000-02-20,Etudiante,ee,ee,ee,,uploads/femme2.jpg,utilisateur,non,
