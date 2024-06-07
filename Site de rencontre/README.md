@@ -1,6 +1,6 @@
 # Site de Rencontre
 
-Ce projet de site de rencontre a été développé par une équipe de quatres personnes conformément aux spécifications du cahier des charges suivant :
+Ce projet de site de rencontre n'a pas de thème précis, c'est un site classique qui a été développé par une équipe de quatres personnes conformément aux spécifications du cahier des charges suivant :
 
 ## Cahier des charges
 
@@ -45,5 +45,7 @@ Les fichiers sont enregistrés sur GitHub à l'adresse suivante : [https://githu
 ## Auteurs
 
 - [@KAJEIOU Asma](lien_vers_profil_GitHub_Auteur1)
-- [@Auteur2](lien_vers_profil_GitHub_Auteur2)
-- [@Auteur3](lien_vers_profil_GitHub_Auteur3)
+- [@DESTIN Deulyne](lien_vers_profil_GitHub_Auteur2)
+- [@DOS SANTOS Emma](lien_vers_profil_GitHub_Auteur3)
+- [@GACIL Camil](lien_vers_profil_GitHub_Auteur3)
+
