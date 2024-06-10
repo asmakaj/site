@@ -1,7 +1,3 @@
-Voici la version mise à jour du README pour le projet de site de rencontre, incluant les détails supplémentaires sur le fonctionnement du site web :
-
----
-
 # Site de Rencontre
 
 Ce projet de site de rencontre n'a pas de thème précis, c'est un site classique qui a été développé par une équipe de quatre personnes conformément aux spécifications du cahier des charges suivant :
